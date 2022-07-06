@@ -1,0 +1,10 @@
+.flex{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    padding: 50px;
+}
+
+.bottom{
+    padding: 50px;
+}

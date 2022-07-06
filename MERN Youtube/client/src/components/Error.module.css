@@ -1,0 +1,7 @@
+.middle {
+    size: 80%;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    /* tex */
+}
