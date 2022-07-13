@@ -30,6 +30,3 @@ module.exports = mongoose.model("Blog", blogSchema);
 
 
 
-
-.map((order) => order[3]);
-
